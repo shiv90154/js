@@ -61,15 +61,15 @@
 // console.log(mycar.make)
 
 
-function myfunc(theArr) {
-    theArr[0] = 30;
+// function myfunc(theArr) {
+//     theArr[0] = 30;
 
-}
-let arr = [45, 23]
+// }
+// let arr = [45, 23]
 
-console.log(arr[1]);
-console.log(arr)
-myfunc(arr)
-console.log(arr[1]);
-console.log(arr)
+// console.log(arr[1]);
+// console.log(arr)
+// myfunc(arr)
+// console.log(arr[1]);
+// console.log(arr)
 
